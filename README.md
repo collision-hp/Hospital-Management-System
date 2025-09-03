@@ -61,15 +61,3 @@ A Java-based Hospital Management System (HMS) that efficiently manages hospital 
 - `/db` - SQL scripts for schema and sample data.
 
 ---
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss modifications.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
